@@ -17,7 +17,11 @@ body, html {
 }
 
 #logo {
-    max-width: 272px; /* Adjust based on the size of the image */
+    max-width: 150px; /* Adjust based on the size of the image */
+}
+#content {
+    text-align: center;
+    width: 50%;
 }
 
 #search-bar-container {
